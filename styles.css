@@ -1,0 +1,68 @@
+ .numberone {
+  background-color:	#FFFDD0;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+  font: 12pt/15pt sans-serif;
+  }
+  
+ .zagolovok {
+  background-color: #FFCBDB;
+  color: #960018;
+  padding: 10px;
+  }
+  
+  .zagolovokcenter {
+  background-color: #FFCBDB;
+  color: #960018;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  font-size: 30pt;
+  }
+  
+  .malenkiy_zagolovok {
+  background-color: #FFCBDB;
+  color: #960018;
+  padding: 10px;
+  margin: 20px;
+  font-size: 18pt;
+  }
+  
+  .zagolovok_v_zagolovci {
+  color: #960018;
+  font-size: 18pt;
+  }
+  
+  .cina {
+  background-color:	#FFCBD;
+  color: #960018;
+  padding: 20px;
+  font: 10pt/26pt sans-serif bold;
+  }
+  
+.navbar {
+  overflow: hidden;
+  background-color: #f0b629;
+  list-style-type: none
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.navbar a:hover {
+  background-color: #f08619;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: #f08619;
+  color: #332e2e
+}
